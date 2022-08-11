@@ -3,9 +3,10 @@
 
 # Usage
 
-Open index.html dans votre navigateur (de préférence et choisir le système multi-agent à tester.
+Open index.html and select one of the system
 
 ## Architecture
+
 ```
 assets      // Dependencies
 css         // Style
